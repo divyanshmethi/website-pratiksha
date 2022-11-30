@@ -1,0 +1,105 @@
+{
+  "main": {
+    "name": "Divyansh Methi",
+    "occupation": "Software Developer",
+    "description": "Full Stack Developer by Day, Freelancer by Night.",
+    "image": "Mine.jpg",
+    "bio": "My name is Divyansh, I'm a Full Stack Developer currently working at Dell Technologies ",
+    "contactmessage": "Get in touch with me to receive further details",
+    "email": "divyanshmethi11@gmail.com",
+    "phone": "8619051612",
+    "address": {
+      "street": "BTM",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "zip": "560029"
+    },
+    "resumedownload": "Divyansh_Resume.pdf",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/divyansh-methi-0881a3144/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/divyanshmethi",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I am always open to learn and work with new technologies. These are the ones that I already have in my kitty.",
+    "education": [
+      {
+        "school": "Vellore Institute of Technology",
+        "degree": "Bachelors in Computer Science",
+        "graduated": "May 2019",
+        "description": "CGPA - 9.43"
+      }
+    ],
+    "work": [
+      {
+        "company": "Dell Technologies",
+        "title": "Software Developer - 1",
+        "years": "June 2020 - Present",
+        "description": "Working as Full Stack Developer. Here I have had the chance to dig in and get my hands dirty with all parts of our software. I have worked with legacy Angular.js and Spring Framework at backend, as well as built new UI components and API's using Angular and Java."
+      },
+      {
+        "company": "Dell",
+        "title": "Intern",
+        "years": "Feb 2019 - May 2020",
+        "description": "Developed OpenAPI Validator - \"A tool for automatic validation of your API's against there openAPI specifications\" and containerized it using Docker."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Java",
+        "level": "80%"
+      },
+      {
+        "name": "React",
+        "level": "75%"
+      },
+      {
+        "name": "Node.js",
+        "level": "70%"
+      },
+      {
+        "name": "Angular",
+        "level": "70%"
+      },
+      {
+        "name": "SQL",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "70%"
+      },
+      {
+        "name": "Docker",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "MERN Stack WhatsApp Clone",
+        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "whatsapp-mern.jpeg"
+      },
+      {
+        "title": "Facebook Clone with React",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook-clone.png"
+      },
+      {
+        "title": "Airbnb Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "airbnb-clone.jpeg"
+      }
+    ]
+  }
+}
